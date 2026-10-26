@@ -3,7 +3,7 @@ En mobilapp, der forbinder kunder med tattoo artists, barbers og frisører.
 Kunder kan finde et studie, der matcher deres stil, se portefølje og anmeldelser, booke en ledig tid og sende en forespørgsel med billede direkte i appen uden at skulle browse Instagram eller Google Maps.
 
 ## Demo video
-[INDSÆT LINK TIL DEMOVIDEO HER]
+Demovideo fra GK2: https://www.loom.com/share/b538fc3a2e9f4cd1bb115c66fd7606f7 
 
 Demovideo fra GK1: https://www.loom.com/share/38a5873acb414500aa28df74c4bcaef2
 
